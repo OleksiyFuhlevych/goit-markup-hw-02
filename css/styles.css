@@ -54,7 +54,7 @@ body {
     font-size: 56px;
     font-weight: 700;
     line-height: 60px;
-    letter-spacing: 0.02em;
+    letter-spacing: 2px;
     text-align: center;
     color: #FFFFFF;
     line-height: 1.07;    
@@ -65,7 +65,7 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.04em;
+    letter-spacing: 4px;
     color: #ffffff;
     cursor: pointer;
 }
@@ -83,13 +83,13 @@ body {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02em;
+    letter-spacing: 2px;
     color: #2e2f42;
 }
 .goal-text {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 2px;
 }
 
 .teams {
@@ -99,7 +99,7 @@ body {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
-    letter-spacing: 0.02em;
+    letter-spacing: 2px;
     text-transform: capitalize;
     color: #2e2f42;
 }
@@ -110,13 +110,13 @@ body {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02em;
+    letter-spacing: 2px;
     color: #2e2f42;
 }
 .position {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 2px;
 }
 
 .portfolios {
@@ -126,7 +126,7 @@ body {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
-    letter-spacing: 0.02em;
+    letter-spacing: 2px;
     text-transform: capitalize;
     color: #2e2f42;
 }
@@ -134,13 +134,13 @@ body {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02em;
+    letter-spacing: 2px;
     color: #2e2f42;
 }
 .portfolios-info {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 2px;
 }
 
 .footer-section {
@@ -153,5 +153,5 @@ body {
 .footer-text {
     line-height: 1.5;
     color: #F4F4FD;
-    letter-spacing: 0.02em;
+    letter-spacing: 2px;
 }
