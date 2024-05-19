@@ -9,7 +9,7 @@ body {
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 3px;
+    letter-spacing: 0.03em;
     text-align: left;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -24,7 +24,7 @@ body {
 }
 .nav-link {
     color:#434455;
-    letter-spacing: 2px;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .nav-studio:hover {
@@ -54,25 +54,25 @@ body {
     font-size: 56px;
     font-weight: 700;
     line-height: 60px;
-    letter-spacing: 2px;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #FFFFFF;
     line-height: 1.07;    
 }
-.benefits-button {
+.benefits-batton {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 4px;
+    letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
 }
-.benefits-button:hover {
+.benefits-batton:hover {
     background-color: #404BBF;
 }
-.benefits-button:focus {
+.benefits-batton:focus {
     background-color: #404BBF;
 }
 
